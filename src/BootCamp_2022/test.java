@@ -4,7 +4,7 @@ public class test {
 
 	public static void main(String[] args) {
 
-		//git test
+		
 		if(palindrome("racecar") == true){
 			System.out.println("the word is a palindrome");
 		} else {
