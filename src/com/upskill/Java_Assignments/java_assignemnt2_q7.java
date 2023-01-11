@@ -4,7 +4,7 @@ public class java_assignemnt2_q7 {
 	
 	public static void main(String[] args){
 		int a =25;
-		int b = 30;
+		int b = 55;
 		int temp;
 		temp = a;
 		a = b;
